@@ -1,5 +1,5 @@
 //() => {
     $(document).ready(() => {
-        alert("doc ready");
+        alert("document ready()");
     });
 //};
